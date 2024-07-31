@@ -1,0 +1,8 @@
+.vscode/*
+!.vscode/extensions.json
+
+section_ipynb
+
+__pycache__/
+
+credit_card.csv
